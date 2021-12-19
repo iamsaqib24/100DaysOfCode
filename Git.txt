@@ -1,0 +1,12 @@
+--> git init
+git status :- to check status of current folder
+git add . :- to add changes 
+git commit -m "message"
+
+
+
+
+
+git branch -M main
+git remote add origin pathofrepo
+git push -u origin main
